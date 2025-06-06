@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Kanish",
+      "datetime": "September 13, 2024 12:29:10 PM",
+      "body": "Intern"
+    },
+    {
+      "id": "11",
+      "title": "Roy",
+      "datetime": "September 13, 2024 12:35:05 PM",
+      "body": "Backend developer"
+    },
+    {
+      "id": "111",
+      "title": "Mani",
+      "datetime": "September 13, 2024 12:35:28 PM",
+      "body": "Accountant"
+    },
+    {
+      "id": "1111",
+      "title": "Prince",
+      "datetime": "September 13, 2024 12:30:33 PM",
+      "body": "Digital Marketing"
+    },
+    {
+      "id": "11111",
+      "title": "Paul",
+      "datetime": "September 13, 2024 12:31:01 PM",
+      "body": "Designer"
+    },
+    {
+      "id": "111111",
+      "title": "Bala",
+      "datetime": "October 18, 2024 3:28:44 PM",
+      "body": "CEO"
+    },
+    {
+      "id": "1111111",
+      "title": "Mohan",
+      "datetime": "September 13, 2024 12:35:43 PM",
+      "body": "Human Resource"
+    },
+    {
+      "id": "11111111",
+      "title": "Amar",
+      "datetime": "October 18, 2024 3:32:18 PM",
+      "body": "React Developer"
+    },
+    {
+      "id": "111111111",
+      "title": "Mahe",
+      "datetime": "October 18, 2024 3:33:30 PM",
+      "body": "DevOps Engineer"
+    },
+    {
+      "id": "1111111111",
+      "title": "Abi",
+      "datetime": "October 24, 2024 12:55:55 PM",
+      "body": "React Native"
+    }
+  ]
+}
